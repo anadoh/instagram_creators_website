@@ -13,8 +13,8 @@ Photos thanks from (https://unsplash.com/)
 
 
 ## Screenshots
-![Desktop screenshot](doc/sic_desktop_version.png)
-![Mobile screenshot](doc/sic_mobile_version.png)
+![Desktop screenshot](.doc/sic_desktop_version.png)
+![Mobile screenshot](.doc/sic_mobile_version.png)
 
 ## Setup
 How to run this project.
