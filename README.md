@@ -4,7 +4,7 @@
 Example website of Instagram Creators. 
 Photos thanks from (https://unsplash.com/)
 
-##Online DEMO
+## Online DEMO
 https://anadoh.github.io/instagram_creators_website/
 
 ## Technologies
